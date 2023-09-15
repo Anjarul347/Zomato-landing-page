@@ -1,6 +1,8 @@
 # Zomato-landing-page
 
-<p>It is a responsive zomato landing page for my practice purpose of front end</p>
+<p>Zomato landing page for front end</p>
+
+![Zomato landing page](https://github.com/Anjarul347/Zomato-landing-page/assets/113053380/15c2b3f4-1667-41f6-a3b0-11a42412f318)
 
 The important links are: 
    1: For Zomato shortcut button: https://b.zmtcdn.com/images/logo/zomato_logo_2017.png
